@@ -303,9 +303,9 @@ Contributions make the open-source community an amazing place to learn and creat
 
 ## 📞 Contact
 
-**Your Name** - your.email@example.com
+**Your Name** - Arghadeep Nandi
 
-**Project Link**: [https://github.com/arghadeepnandi/QC_Failure_Prediction](#)
+**Project Link**: https://github.com/arghadeepnandi/QC_Failure_Prediction (#)
 
 **Live Demo**: [https://huggingface.co/spaces/YourUsername/qc-failure-prediction](#)
 
@@ -341,3 +341,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ⭐ **Don't forget to star this repo if you found it helpful!** ⭐
 
 Made with ❤️ and 🏭 by **Arghadeep Nandi**
+
